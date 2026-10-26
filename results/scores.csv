@@ -1,0 +1,235 @@
+model,question,type,run,score,reason
+gemini-3.1-pro-preview,Q01,control,1,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.1-pro-preview,Q01,control,2,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.1-pro-preview,Q01,control,3,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.8-flash,Q01,control,1,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.8-flash,Q01,control,2,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.8-flash,Q01,control,3,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+matilda,Q01,control,1,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+matilda,Q01,control,2,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+matilda,Q01,control,3,pass,All core facts correct: A red alga (seaweed) collected off the northern headland / reef shelf of Kestrel Bay.
+gemini-3.1-pro-preview,Q02,control,1,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.1-pro-preview,Q02,control,2,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.1-pro-preview,Q02,control,3,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.8-flash,Q02,control,1,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.8-flash,Q02,control,2,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.8-flash,Q02,control,3,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+matilda,Q02,control,1,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+matilda,Q02,control,2,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+matilda,Q02,control,3,pass,All core facts correct: Twenty-four million dollars; awarded to Greywater Marine (June 2023).
+gemini-3.1-pro-preview,Q03,bridge+alias,1,pass,All core facts correct: Port Calder Mariners.
+gemini-3.1-pro-preview,Q03,bridge+alias,2,pass,All core facts correct: Port Calder Mariners.
+gemini-3.1-pro-preview,Q03,bridge+alias,3,pass,All core facts correct: Port Calder Mariners.
+gemini-3.8-flash,Q03,bridge+alias,1,pass,All core facts correct: Port Calder Mariners.
+gemini-3.8-flash,Q03,bridge+alias,2,pass,All core facts correct: Port Calder Mariners.
+gemini-3.8-flash,Q03,bridge+alias,3,pass,All core facts correct: Port Calder Mariners.
+matilda,Q03,bridge+alias,1,pass,All core facts correct: Port Calder Mariners.
+matilda,Q03,bridge+alias,2,pass,All core facts correct: Port Calder Mariners.
+matilda,Q03,bridge+alias,3,pass,All core facts correct: Port Calder Mariners.
+gemini-3.1-pro-preview,Q04,bridge+alias,1,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.1-pro-preview,Q04,bridge+alias,2,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.1-pro-preview,Q04,bridge+alias,3,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.8-flash,Q04,bridge+alias,1,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.8-flash,Q04,bridge+alias,2,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.8-flash,Q04,bridge+alias,3,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+matilda,Q04,bridge+alias,1,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+matilda,Q04,bridge+alias,2,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+matilda,Q04,bridge+alias,3,pass,"All core facts correct: Professor Harold Okafor at Kestrel Bay University (Imogen Varga, doctorate completed 2013)."
+gemini-3.1-pro-preview,Q05,bridge+description,1,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q05,bridge+description,2,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q05,bridge+description,3,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q05,bridge+description,1,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q05,bridge+description,2,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q05,bridge+description,3,pass,All core facts correct: Greywater Marine.
+matilda,Q05,bridge+description,1,pass,All core facts correct: Greywater Marine.
+matilda,Q05,bridge+description,2,pass,All core facts correct: Greywater Marine.
+matilda,Q05,bridge+description,3,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q06,bridge+description,1,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.1-pro-preview,Q06,bridge+description,2,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.1-pro-preview,Q06,bridge+description,3,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.8-flash,Q06,bridge+description,1,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.8-flash,Q06,bridge+description,2,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.8-flash,Q06,bridge+description,3,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+matilda,Q06,bridge+description,1,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down). (Answer cut off mid-sentence; no truncation flag; required facts present.)"
+matilda,Q06,bridge+description,2,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+matilda,Q06,bridge+description,3,pass,"All core facts correct: The Copper Pot in Wendmoor, as sous chef (from 2016 until the restaurant burned down)."
+gemini-3.1-pro-preview,Q07,bridge,1,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.1-pro-preview,Q07,bridge,2,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.1-pro-preview,Q07,bridge,3,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.8-flash,Q07,bridge,1,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.8-flash,Q07,bridge,2,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.8-flash,Q07,bridge,3,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+matilda,Q07,bridge,1,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+matilda,Q07,bridge,2,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+matilda,Q07,bridge,3,pass,"All core facts correct: Mayor of Wendmoor (Beatrice Hollis, elected October 2022)."
+gemini-3.1-pro-preview,Q08,bridge+temporal,1,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.1-pro-preview,Q08,bridge+temporal,2,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.1-pro-preview,Q08,bridge+temporal,3,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.8-flash,Q08,bridge+temporal,1,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.8-flash,Q08,bridge+temporal,2,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.8-flash,Q08,bridge+temporal,3,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+matilda,Q08,bridge+temporal,1,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+matilda,Q08,bridge+temporal,2,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+matilda,Q08,bridge+temporal,3,pass,"All core facts correct: Priya Raman, CEO of Port Calder Harbour Authority (commissioned February 2023); she co-founded Brightline Capital with Desmond Faulk in 2016."
+gemini-3.1-pro-preview,Q09,bridge+alias,1,pass,All core facts correct: They are sisters.
+gemini-3.1-pro-preview,Q09,bridge+alias,2,pass,All core facts correct: They are sisters.
+gemini-3.1-pro-preview,Q09,bridge+alias,3,pass,All core facts correct: They are sisters.
+gemini-3.8-flash,Q09,bridge+alias,1,pass,All core facts correct: They are sisters.
+gemini-3.8-flash,Q09,bridge+alias,2,pass,All core facts correct: They are sisters.
+gemini-3.8-flash,Q09,bridge+alias,3,pass,All core facts correct: They are sisters.
+matilda,Q09,bridge+alias,1,pass,All core facts correct: They are sisters.
+matilda,Q09,bridge+alias,2,pass,All core facts correct: They are sisters.
+matilda,Q09,bridge+alias,3,pass,All core facts correct: They are sisters.
+gemini-3.1-pro-preview,Q10,bridge,1,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.1-pro-preview,Q10,bridge,2,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.1-pro-preview,Q10,bridge,3,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.8-flash,Q10,bridge,1,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.8-flash,Q10,bridge,2,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.8-flash,Q10,bridge,3,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+matilda,Q10,bridge,1,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+matilda,Q10,bridge,2,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+matilda,Q10,bridge,3,pass,"All core facts correct: Desmond Faulk, chairman of Kingfisher Media (owner of The Calder Courier, where Winifred Asante is chief critic)."
+gemini-3.1-pro-preview,Q11,bridge,1,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.1-pro-preview,Q11,bridge,2,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.1-pro-preview,Q11,bridge,3,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.8-flash,Q11,bridge,1,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.8-flash,Q11,bridge,2,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.8-flash,Q11,bridge,3,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+matilda,Q11,bridge,1,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+matilda,Q11,bridge,2,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+matilda,Q11,bridge,3,pass,All core facts correct: Callum Reyes was chief financial officer of Greywater Marine for six years before becoming Northwind Renewables' CEO in September 2021.
+gemini-3.1-pro-preview,Q12,intersection,1,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q12,intersection,2,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q12,intersection,3,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q12,intersection,1,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q12,intersection,2,pass,All core facts correct: Greywater Marine.
+gemini-3.8-flash,Q12,intersection,3,pass,All core facts correct: Greywater Marine.
+matilda,Q12,intersection,1,pass,All core facts correct: Greywater Marine.
+matilda,Q12,intersection,2,pass,All core facts correct: Greywater Marine.
+matilda,Q12,intersection,3,pass,All core facts correct: Greywater Marine.
+gemini-3.1-pro-preview,Q13,bridge,1,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.1-pro-preview,Q13,bridge,2,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.1-pro-preview,Q13,bridge,3,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.8-flash,Q13,bridge,1,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.8-flash,Q13,bridge,2,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.8-flash,Q13,bridge,3,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+matilda,Q13,bridge,1,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+matilda,Q13,bridge,2,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+matilda,Q13,bridge,3,pass,All core facts correct: Five votes to four (tied four-all before the mayor voted); Mayor Beatrice Hollis cast the deciding vote; she had owned The Copper Pot restaurant in Wendmoor (2004-2021).
+gemini-3.1-pro-preview,Q14,temporal,1,pass,All core facts correct: Priya Raman.
+gemini-3.1-pro-preview,Q14,temporal,2,pass,All core facts correct: Priya Raman.
+gemini-3.1-pro-preview,Q14,temporal,3,pass,All core facts correct: Priya Raman.
+gemini-3.8-flash,Q14,temporal,1,pass,All core facts correct: Priya Raman.
+gemini-3.8-flash,Q14,temporal,2,pass,All core facts correct: Priya Raman.
+gemini-3.8-flash,Q14,temporal,3,pass,All core facts correct: Priya Raman.
+matilda,Q14,temporal,1,pass,All core facts correct: Priya Raman.
+matilda,Q14,temporal,2,pass,All core facts correct: Priya Raman. (Answer cut off mid-sentence; no truncation flag; required facts present.)
+matilda,Q14,temporal,3,pass,All core facts correct: Priya Raman.
+gemini-3.1-pro-preview,Q15,temporal+alias,1,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.1-pro-preview,Q15,temporal+alias,2,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.1-pro-preview,Q15,temporal+alias,3,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.8-flash,Q15,temporal+alias,1,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.8-flash,Q15,temporal+alias,2,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.8-flash,Q15,temporal+alias,3,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+matilda,Q15,temporal+alias,1,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+matilda,Q15,temporal+alias,2,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+matilda,Q15,temporal+alias,3,pass,All core facts correct: Tidewell Bio; the six million dollar round in August 2019 was led by Sandpiper Ventures (Moira Delaney).
+gemini-3.1-pro-preview,Q16,contradiction,1,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.1-pro-preview,Q16,contradiction,2,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.1-pro-preview,Q16,contradiction,3,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.8-flash,Q16,contradiction,1,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.8-flash,Q16,contradiction,2,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.8-flash,Q16,contradiction,3,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+matilda,Q16,contradiction,1,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+matilda,Q16,contradiction,2,partial,Gives only 'winter of 2020'; omits the Courier's July 2021 date and the conflict.
+matilda,Q16,contradiction,3,pass,"Presents both dates (July 2021 Courier, winter 2020 podcast) with sources."
+gemini-3.1-pro-preview,Q17,false-premise,1,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.1-pro-preview,Q17,false-premise,2,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.1-pro-preview,Q17,false-premise,3,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.8-flash,Q17,false-premise,1,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.8-flash,Q17,false-premise,2,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.8-flash,Q17,false-premise,3,pass,Rejects the premise / says the documents don't cover it.
+matilda,Q17,false-premise,1,pass,Rejects the premise / says the documents don't cover it.
+matilda,Q17,false-premise,2,pass,Rejects the premise / says the documents don't cover it.
+matilda,Q17,false-premise,3,pass,Rejects the premise / says the documents don't cover it.
+gemini-3.1-pro-preview,Q18,unanswerable,1,pass,Says the documents don't state the dose.
+gemini-3.1-pro-preview,Q18,unanswerable,2,pass,Says the documents don't state the dose.
+gemini-3.1-pro-preview,Q18,unanswerable,3,pass,Says the documents don't state the dose.
+gemini-3.8-flash,Q18,unanswerable,1,pass,Says the documents don't state the dose.
+gemini-3.8-flash,Q18,unanswerable,2,pass,Says the documents don't state the dose.
+gemini-3.8-flash,Q18,unanswerable,3,pass,Says the documents don't state the dose.
+matilda,Q18,unanswerable,1,pass,Says the documents don't state the dose.
+matilda,Q18,unanswerable,2,pass,Says the documents don't state the dose.
+matilda,Q18,unanswerable,3,pass,Says the documents don't state the dose.
+gemini-3.1-pro-preview,Q19,ambiguity,1,pass,"Asks which Tidewell is meant, or names both CEOs."
+gemini-3.1-pro-preview,Q19,ambiguity,2,pass,"Asks which Tidewell is meant, or names both CEOs."
+gemini-3.1-pro-preview,Q19,ambiguity,3,pass,"Asks which Tidewell is meant, or names both CEOs."
+gemini-3.8-flash,Q19,ambiguity,1,pass,"Asks which Tidewell is meant, or names both CEOs."
+gemini-3.8-flash,Q19,ambiguity,2,pass,"Asks which Tidewell is meant, or names both CEOs."
+gemini-3.8-flash,Q19,ambiguity,3,pass,"Asks which Tidewell is meant, or names both CEOs."
+matilda,Q19,ambiguity,1,pass,"Asks which Tidewell is meant, or names both CEOs."
+matilda,Q19,ambiguity,2,partial,Names only Tidewell Bio's CEO; ignores Tidewell Seafoods (Imogen Price).
+matilda,Q19,ambiguity,3,partial,Names only Tidewell Bio's CEO; ignores Tidewell Seafoods (Imogen Price).
+gemini-3.1-pro-preview,Q20,comparison,1,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+gemini-3.1-pro-preview,Q20,comparison,2,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+gemini-3.1-pro-preview,Q20,comparison,3,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+gemini-3.8-flash,Q20,comparison,1,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+gemini-3.8-flash,Q20,comparison,2,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+gemini-3.8-flash,Q20,comparison,3,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+matilda,Q20,comparison,1,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+matilda,Q20,comparison,2,pass,All core facts correct: Greywater Marine (1979) was founded before Brightline Capital (2016).
+matilda,Q20,comparison,3,partial,"Opens with the wrong answer (investment firm first), then gives the correct dates and concludes Greywater was earlier; self-contradictory."
+gemini-3.1-pro-preview,Q21,bridge,1,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+gemini-3.1-pro-preview,Q21,bridge,2,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+gemini-3.1-pro-preview,Q21,bridge,3,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+gemini-3.8-flash,Q21,bridge,1,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+gemini-3.8-flash,Q21,bridge,2,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+gemini-3.8-flash,Q21,bridge,3,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+matilda,Q21,bridge,1,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013). (Answer cut off mid-sentence; no truncation flag; required facts present.)
+matilda,Q21,bridge,2,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013).
+matilda,Q21,bridge,3,pass,All core facts correct: Emeritus Professor Harold Okafor; he supervised the winner Imogen Varga's doctorate at Kestrel Bay University (completed 2013). (Answer cut off mid-sentence; no truncation flag; required facts present.)
+gemini-3.1-pro-preview,Q22,bridge+description,1,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.1-pro-preview,Q22,bridge+description,2,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.1-pro-preview,Q22,bridge+description,3,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.8-flash,Q22,bridge+description,1,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.8-flash,Q22,bridge+description,2,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.8-flash,Q22,bridge+description,3,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+matilda,Q22,bridge+description,1,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+matilda,Q22,bridge+description,2,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+matilda,Q22,bridge+description,3,pass,All core facts correct: Storm damage to Port Calder's north wharf (the only berth for the temperature-controlled drug shipments) stopped supplies for several weeks; the event was Cyclone Maren (February 2025); Greywater Marine did the emergency repairs.
+gemini-3.1-pro-preview,Q23,bridge,1,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.1-pro-preview,Q23,bridge,2,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.1-pro-preview,Q23,bridge,3,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.8-flash,Q23,bridge,1,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.8-flash,Q23,bridge,2,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.8-flash,Q23,bridge,3,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+matilda,Q23,bridge,1,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+matilda,Q23,bridge,2,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+matilda,Q23,bridge,3,pass,All core facts correct: The Okafor Chair in Marine Chemistry at Kestrel Bay University ($2.
+gemini-3.1-pro-preview,Q24,aggregation,1,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.1-pro-preview,Q24,aggregation,2,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.1-pro-preview,Q24,aggregation,3,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.8-flash,Q24,aggregation,1,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.8-flash,Q24,aggregation,2,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.8-flash,Q24,aggregation,3,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+matilda,Q24,aggregation,1,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+matilda,Q24,aggregation,2,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+matilda,Q24,aggregation,3,pass,"All core facts correct: Brightline Capital (co-founder and managing partner), Kingfisher Media (chairman), and the board of Tidewell Bio / Halcyon Therapeutics (joined after the 2024 Series B)."
+gemini-3.1-pro-preview,Q25,bridge+alias,1,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.1-pro-preview,Q25,bridge+alias,2,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.1-pro-preview,Q25,bridge+alias,3,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.8-flash,Q25,bridge+alias,1,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.8-flash,Q25,bridge+alias,2,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.8-flash,Q25,bridge+alias,3,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+matilda,Q25,bridge+alias,1,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+matilda,Q25,bridge+alias,2,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+matilda,Q25,bridge+alias,3,pass,"All core facts correct: Rafael Duarte left Halcyon Therapeutics (formerly Tidewell Bio) in January 2025 and started Saltmarsh Analytics in Kestrel Bay, making low-cost water-quality sensors for oyster farms and estuaries."
+gemini-3.1-pro-preview,Q26,bridge,1,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+gemini-3.1-pro-preview,Q26,bridge,2,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+gemini-3.1-pro-preview,Q26,bridge,3,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+gemini-3.8-flash,Q26,bridge,1,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+gemini-3.8-flash,Q26,bridge,2,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+gemini-3.8-flash,Q26,bridge,3,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+matilda,Q26,bridge,1,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+matilda,Q26,bridge,2,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."
+matilda,Q26,bridge,3,pass,"All core facts correct: Hana Sato of Kelp & Co (2023), on the Port Calder waterfront."

@@ -1,0 +1,382 @@
+{
+  "01-courier-2017-kestrel-bay-startup.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_kestrelbayresear_c06adaf0963b4e2191c7ebc7efb1aad898ec2485a634e2507fcd8e59ee4af8c6",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 25,
+    "relationships_created_in_kg": 46,
+    "ingest_mode": "hipporag_v1"
+  },
+  "02-calder-business-2019-series-a.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_algaeantibioticd_ed1b7556ec1cc578c028317ec5d60b65de8a252c85710b3dd3cccc08eb67401d",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 24,
+    "relationships_created_in_kg": 51,
+    "ingest_mode": "hipporag_v1"
+  },
+  "03-mariners-2023-shirt-sponsor.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_marinersunveilne_30a1e3aca7a248a7b4344b177e1d651cccc238d55607829cca3fd93445d318db",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 27,
+    "relationships_created_in_kg": 63,
+    "ingest_mode": "hipporag_v1"
+  },
+  "04-calder-business-2024-series-b.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_brightlinewrites_107164bbb355decb70cece87feb6085999fceadeec5fd2594d9348f1668d4615",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 12,
+    "relationships_created_in_kg": 44,
+    "ingest_mode": "hipporag_v1"
+  },
+  "05-press-release-2024-rename.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_tidewellbioisnow_4dee820816b543cbc8d7e81c932e39fa11dcad6681a91af718b5de1bdb6ac991",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 14,
+    "relationships_created_in_kg": 51,
+    "ingest_mode": "hipporag_v1"
+  },
+  "06-st-brigids-2024-trial-begins.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_firstpatientsjoi_adad8b796aeef5f0469497ea7d7290ce630a43a028e08f2c4bd8523a58e19d5d",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 13,
+    "relationships_created_in_kg": 56,
+    "ingest_mode": "hipporag_v1"
+  },
+  "07-coast-magazine-2023-lindqvist-profile.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_thedredgersdaugh_6e80293983f731a2c935927946dd1b35fa14a3bb82ef1873dd38d658bef96795",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 35,
+    "relationships_created_in_kg": 117,
+    "ingest_mode": "hipporag_v1"
+  },
+  "08-courier-2022-saltgrass-review.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_reviewsaltgrassk_f32028c976c29c4580adf179e872294648337eb329d942fd1d9ac4e2a21a2e90",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 20,
+    "relationships_created_in_kg": 96,
+    "ingest_mode": "hipporag_v1"
+  },
+  "09-courier-2024-golden-ladle.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_saltgrasscheftak_39a7382c61cda9bf8446363fc84ebb23b6e732bb396a86771443b71f8f60db2a",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 20,
+    "relationships_created_in_kg": 99,
+    "ingest_mode": "hipporag_v1"
+  },
+  "10-podcast-2025-ruiz-interview.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_transcriptexcerp_c1817af72cc713a8461808f716b5ab4f96cd01db643aca32a47ba847f8467527",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 19,
+    "relationships_created_in_kg": 120,
+    "ingest_mode": "hipporag_v1"
+  },
+  "11-courier-2023-golden-ladle.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_kelpcochefwinsgo_234d79f1956f0b44c63f7fb12f96a53202a8a8966a56467c2aa9a7eb138cdc02",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 13,
+    "relationships_created_in_kg": 120,
+    "ingest_mode": "hipporag_v1"
+  },
+  "12-courier-2021-copper-pot-fire.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_firedestroyswend_50edf87171cf55293ec2bb315179bc0b7c06c8812d9a3eedbbefb4e5bc414a53",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 26,
+    "relationships_created_in_kg": 159,
+    "ingest_mode": "hipporag_v1"
+  },
+  "13-wendmoor-gazette-2022-election.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_holliselectedmay_f87c47d7e71308eb87f3b32530460be4031a7bd1a4202982ba28a79ed655666e",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 154,
+    "ingest_mode": "hipporag_v1"
+  },
+  "14-wendmoor-gazette-2023-wind-vote.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_councilnarrowlyb_1bcab2c0acea0ac9bf750fcee16ea8cebc65e941f1aeac472959c10d8d386a66",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 24,
+    "relationships_created_in_kg": 185,
+    "ingest_mode": "hipporag_v1"
+  },
+  "15-calder-business-2021-northwind-ceo.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_northwindnamesne_111dd003d5341393bbd5a260fe9f72fc153e47f4bb31f1d43b82cd53a4054742",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 21,
+    "relationships_created_in_kg": 196,
+    "ingest_mode": "hipporag_v1"
+  },
+  "16-port-calder-news-2024-blades.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_giantbladescomea_1a3ea992022164d069d0485881af674fd13203b643bb86075e6eb03f5b0b660e",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 29,
+    "relationships_created_in_kg": 233,
+    "ingest_mode": "hipporag_v1"
+  },
+  "17-harbour-authority-2023-dredging-contract.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_innerharbourdred_691a21e9357f5bf0734ebaac92f59f4546a5e0c432659c7ff904e3a06af80419",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 21,
+    "relationships_created_in_kg": 245,
+    "ingest_mode": "hipporag_v1"
+  },
+  "18-calder-business-2022-raman-harbour.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_brightlinecofoun_490c8b6794e6d5930d31cd937a213606dbd84437f0345a116812b2afbac2d47b",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 17,
+    "relationships_created_in_kg": 264,
+    "ingest_mode": "hipporag_v1"
+  },
+  "19-port-calder-news-2023-tidelines-mural.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_tidelinesbringsc_014e155addbfbd8bed59dd34bf3ab30950eb0ae12f4c68e0f0faaf3d9c9e1fe8",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 22,
+    "relationships_created_in_kg": 289,
+    "ingest_mode": "hipporag_v1"
+  },
+  "20-arts-blog-2024-fenwick-profile.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_studiovisitodile_fcdc9ec2c2e5d601471079a796f6cda35380db3333733351b01b25f72216e861",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 26,
+    "relationships_created_in_kg": 326,
+    "ingest_mode": "hipporag_v1"
+  },
+  "21-port-calder-news-2025-cyclone-maren.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_cyclonemarenbatt_6179b5b89cd1f6668807d486c3ec274ba37b4cf72376280e6a41f28cf1d53839",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 24,
+    "relationships_created_in_kg": 334,
+    "ingest_mode": "hipporag_v1"
+  },
+  "22-halcyon-2025-trial-update.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_updateonourphase_72e0b6355e218d498c3c5711ed4356811f05506c323f83d7019cb34435c6ba76",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 25,
+    "relationships_created_in_kg": 364,
+    "ingest_mode": "hipporag_v1"
+  },
+  "23-calder-business-2025-kingsley.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_newchiefforportc_a3a964285b547b2163f6f31a9d6798b50b24c42cc8b9d2d549b8667bcf23bb12",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 12,
+    "relationships_created_in_kg": 370,
+    "ingest_mode": "hipporag_v1"
+  },
+  "24-calder-science-prize-2024.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_caldersciencepri_aa9d88b71b368410c622af0561a9e3c597afca44166ec3e4246e67c4f6427b10",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 397,
+    "ingest_mode": "hipporag_v1"
+  },
+  "25-kbu-2023-okafor-retires.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_professorharoldo_b428a8656543f90deb5c12cc51b4ae9c92a6dfc88ef29a329989681496b0b72a",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 452,
+    "ingest_mode": "hipporag_v1"
+  },
+  "26-kbu-2025-okafor-chair.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_universityannoun_fdd012ff0498b3df1bc67f3ea4179b686f7707651a064beab0a1a4a8944fc812",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 13,
+    "relationships_created_in_kg": 465,
+    "ingest_mode": "hipporag_v1"
+  },
+  "27-calder-business-2025-saltmarsh.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_biotechcofounder_7850f660bb314582319012b67b0fbc1f315573efe7e0dc4ef0d846b18750ca8e",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 18,
+    "relationships_created_in_kg": 500,
+    "ingest_mode": "hipporag_v1"
+  },
+  "28-calder-business-2020-kingfisher-courier.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_kingfishermediab_97685d0b86d2eff42b0b3d9136a72bc74a897fb01ca0d3042eaea60e39854dcb",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 12,
+    "relationships_created_in_kg": 492,
+    "ingest_mode": "hipporag_v1"
+  },
+  "29-mirrin-falls-2024-tidewell-seafoods.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_tidewellseafoods_648e70bc8bfac20c6b393cbd460921e8b2bf434d329d53097b1dd3839b69244d",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 23,
+    "relationships_created_in_kg": 537,
+    "ingest_mode": "hipporag_v1"
+  },
+  "30-wendmoor-gazette-2024-brightline-logistics.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_truckingdepotope_beeb029a287fda7a7e0c93f50d840d07122e3e71c0f432d5e545a871e90c7906",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 552,
+    "ingest_mode": "hipporag_v1"
+  },
+  "31-kestrel-bay-2024-dentist.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_freedentalchecks_2d3d5e3f72bdbeb93524e4e53d1713e90cb27e76820fc936d777d05005444cde",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 20,
+    "relationships_created_in_kg": 594,
+    "ingest_mode": "hipporag_v1"
+  },
+  "32-port-calder-news-2025-insurance.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_boatownersfacehi_02d902d7a049d71abd15fafda312f1faaa6acee5bcd39936698cdea7435e0ae0",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 612,
+    "ingest_mode": "hipporag_v1"
+  },
+  "33-mirrin-falls-2024-swim-coach.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_swimcoachokaforh_fe656dc378d57ef2f2d1a15a88299fa6be1e17d385ebe4e0e41e2aa9e4051530",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 16,
+    "relationships_created_in_kg": 645,
+    "ingest_mode": "hipporag_v1"
+  },
+  "34-kbu-2024-library-mural.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_newmuralfortheun_15a16f3a338df9da2478513f6e2546ef14bb3a4d3eb14e9bc14d19ece7b51e95",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 18,
+    "relationships_created_in_kg": 677,
+    "ingest_mode": "hipporag_v1"
+  },
+  "35-calder-science-prize-2025.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_caldersciencepri_21183cab19068527411bdbb5670bc44fc54f56ecddfb2384ced569b6dcdea6cd",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 15,
+    "relationships_created_in_kg": 703,
+    "ingest_mode": "hipporag_v1"
+  },
+  "36-st-brigids-2025-interim-results.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_encouragingearly_ca93db577a86db8cf11909ce872ed736399f6dc4c8e2343e3fdf17a904b8c6c4",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 11,
+    "relationships_created_in_kg": 705,
+    "ingest_mode": "hipporag_v1"
+  },
+  "37-port-calder-news-2023-copper-kettle.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_copperkettlecele_c57cf3a4bbb460a7b2eca1fa2f137da5e0d9dbec74da446ce207d5e007e1a7cb",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 20,
+    "relationships_created_in_kg": 753,
+    "ingest_mode": "hipporag_v1"
+  },
+  "38-wendmoor-gazette-2025-ridgeback-power.txt": {
+    "base": "https://kg-api-dev.hashtag.ai/anupam/hoppingmatilda",
+    "doc_id": "proj_a2090092_d722_4252_9b76_2d10a349c3b9_doc_firstpowerfromri_2c0d4a68c148bb4a4352a54c4c9b427375f34fc9e67012e3236e49e7a6befe1a",
+    "status": "Success",
+    "total_chunks_generated": 1,
+    "total_graph_documents_extracted": 1,
+    "nodes_created_in_kg": 21,
+    "relationships_created_in_kg": 787,
+    "ingest_mode": "hipporag_v1"
+  }
+}
